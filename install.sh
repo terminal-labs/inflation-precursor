@@ -6,8 +6,8 @@ sudo apt install -y git
 sudo apt install -y make
 sudo apt install -y build-essential
 
-git clone https://github.com/terminal-labs/fuzzball-states.git
-cd fuzzball-states
+git clone https://github.com/terminal-labs/inflation-states.git
+cd inflation-states
 
 sudo make linux
 
