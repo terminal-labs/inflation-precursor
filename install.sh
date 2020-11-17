@@ -12,5 +12,3 @@ cd inflation-states
 sudo make linux
 
 source /home/${USER}/miniconda3/etc/profile.d/conda.sh
-source activate.sh
-fuzzball up
